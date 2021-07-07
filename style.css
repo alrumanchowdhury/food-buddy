@@ -1,0 +1,187 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+
+}
+
+h1{
+    font-size: 40px;
+}
+.header-design{
+
+    color: orange;
+}
+
+.anchor-design{
+
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: 14px;
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 15px 30px;
+}
+
+.section-one-paragraph{
+
+    font-weight: 400;
+    color: gray;
+}
+
+.diet-intro{
+
+    margin-top: 40px;
+    margin-left: 50px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.half-width{
+
+
+    width: 50%;
+    margin-left: 40px;
+}
+
+.half-width img{
+
+    width: 65%;
+}
+
+.margin-first-div{
+
+
+    margin-left: 50px;
+}
+
+.introducing-foodbuddy{
+
+    background-image: url(images/shapes/7.png);
+    display: flex;
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-bottom: 55px;
+}
+
+.recipies{
+
+    margin-bottom: 30px;
+    padding-bottom: 25px;
+   
+}
+
+.recipies h2{
+
+    text-align: center;
+    font-size: 30px;
+    color: grey;
+}
+.recipies p{
+
+    text-align: center;
+}
+
+.half-width h2{
+
+    margin-top: 95px;
+    font-size: 30px;
+    color: grey;
+}
+
+.thrice-width{
+   
+ display: flex;
+
+ margin-left: 190px;
+
+    
+ }
+
+.thrice-width img{
+
+  margin-top: 7px;
+    width: 305px;
+
+}
+
+
+
+.pic{
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 15px  grey;
+
+   
+}
+
+.pic p{
+
+    text-align: justify;
+}
+
+.pic h3{
+
+    text-align: left;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.social-media-follower{
+
+    margin-top: 100px;
+    display: flex;
+    margin-left: 150px;
+    padding: 10px;
+    box-shadow: 1px 1px 15px grey;
+    width: 1080px;
+    border-radius: 20px;
+
+}
+
+.social-media-follower h2{
+
+    
+    font-size: 30px;
+    margin-left: 155px;
+   
+}
+
+.social-media-follower p{
+    margin-left: 155px;
+
+}
+
+footer{
+
+    margin-top: 80px;
+    background-color: rgb(12, 12, 12);
+    color: blanchedalmond;
+    text-align: center;
+}
+
+
+.footer{
+    color: coral;
+}
+
+.footer p{
+
+    color: white;
+}
+
+.finishing-footer h1{
+
+    font-size: 30px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+
+}
+
+
+
+
+
