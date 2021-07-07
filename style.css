@@ -18,10 +18,10 @@ h1{
 
     background-image: linear-gradient(orange, tomato);
     color: white;
-    font-size: 14px;
+    font-size: 18px;
     border-radius: 30px;
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 21px 40px;
 }
 
 .section-one-paragraph{
@@ -35,7 +35,7 @@ h1{
     margin-top: 40px;
     margin-left: 50px;
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -65,7 +65,7 @@ h1{
     background-repeat: no-repeat;
     margin-bottom: 55px;
     padding-top: 1%;
-    padding-bottom:4%;
+    padding-bottom:3%;
 }
 
 .recipies{
