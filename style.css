@@ -64,6 +64,8 @@ h1{
     background-size:cover;
     background-repeat: no-repeat;
     margin-bottom: 55px;
+    padding-top: 1%;
+    padding-bottom:4%;
 }
 
 .recipies{
@@ -95,15 +97,15 @@ h1{
    
  display: flex;
 
- margin-left: 190px;
-
+ margin-left: 3%;
+margin-right: 5%;
     
  }
 
 .thrice-width img{
 
   margin-top: 7px;
-    width: 305px;
+    width: 100%;
 
 }
 
@@ -134,10 +136,10 @@ h1{
 
     margin-top: 100px;
     display: flex;
-    margin-left: 150px;
+    margin-left: 6%;
     padding: 10px;
     box-shadow: 1px 1px 15px grey;
-    width: 1080px;
+    width: 88%;
     border-radius: 20px;
 
 }
